@@ -6,7 +6,7 @@ Please see initial_valgrind_output.txt for valgrind output which was executed wi
 
 Please see final_valgrind_output.txt for valgrind output executed after the bugs were fixed.  
 
-Please see K.png for visualization of the program.  
+Please see KCachegrind.png for visualization of the program.  
 
 
 ## Standard install via command-line
